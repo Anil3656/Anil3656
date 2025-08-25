@@ -1,9 +1,9 @@
-# Hi 👋, I'm Aneel Kumar  
+# Hi 👋, I'm Aneel Kumar Muppana
 🚀 Aspiring Full Stack Developer | Data Science Enthusiast  
 
 🌱 Currently learning: **Django, Data Science, GenAI**  
-💡 Passionate about solving real-world problems with code  
-📫 Reach me: [aneelkumar@example.com](mailto:aneelkumar@example.com)  
+💡 Passionate about solving real-world problems with code.  
+📫 Reach me: [aneelkumar@example.com](mailto:aneelkumarmuppana636@gmail.com)  
 
 ---
 
@@ -16,9 +16,9 @@
 ---
 
 ### 📊 GitHub Stats
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Kumar&show_icons=true&theme=radical)
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anil3656&show_icons=true&theme=radical)
 
 ---
 
 ### 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aneelkumar1927)
