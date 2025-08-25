@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Aneel Kumar  
+🚀 Aspiring Full Stack Developer | Data Science Enthusiast  
 
-<!--
-**Anil3656/Anil3656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently learning: **Django, Data Science, GenAI**  
+💡 Passionate about solving real-world problems with code  
+📫 Reach me: [aneelkumar@example.com](mailto:aneelkumar@example.com)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Kumar&show_icons=true&theme=radical)
+
+---
+
+### 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
