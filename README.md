@@ -1,9 +1,6 @@
 <!-- Banner -->
 ![Banner](https://github.com/Anil3656/Anil3656/blob/main/assets/banner.png)
 
-<h1 align="center">Hi 👋, I'm Aneel Kumar</h1>
-<h3 align="center">🚀 Full Stack Developer | Data Scientist | AI Enthusiast</h3>
-
 ---
 
 ## 🔥 About Me
