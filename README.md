@@ -4,10 +4,10 @@
 ---
 
 ## 🔥 About Me
-- 🌱 Currently learning **Django, Data Science, Generative AI**
-- 💡 Exploring **Agentic AI & Full Stack Development**
-- 🎯 Goal: Build impactful AI-driven web applications
-- 📫 Reach me: **aneelkumar@example.com**
+- 🌱 Currently learning **Python and Java Full Stack davelopemnt, Data Science, Gen AI, Agentic AI**
+- 💡 Exploring **Data science, Data Analytics, Machine Learning, LLMs, Generative AI, Agentic AI & Full Stack Development**
+- 🎯 Goal: Build impactful AI-driven web applications.
+- 📫 Reach me: **aneelkumarmuppana636@gmail.com**
 
 ---
 
@@ -53,7 +53,7 @@
 <a href="https://linkedin.com/in/aneelkumar1927" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="mailto:aneelkumar@example.com">
+<a href="mailto:aneelkumarmuppana636@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
