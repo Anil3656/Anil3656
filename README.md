@@ -38,6 +38,9 @@
 🔹 **[EDA & Data Cleaning](https://github.com/Anil3656/Data-Science-Projects)**  
 🧹 Hands-on data preprocessing, feature engineering, and visualization with Python & Pandas.  
 
+🔹 **[Employee Management System](https://github.com/Anil3656/Bank-Management-System)** 
+Springboot based Employee app with role-based access, CRUD and Authentication.
+
 ---
 
 ## 📊 GitHub Stats
