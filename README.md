@@ -5,7 +5,7 @@
 
 ## 🔥 About Me
 - 🌱 Currently learning **Both Python and Java Full Stack davelopemnt, Data Science, Gen AI, Agentic AI**
-- 💡 Exploring **Data science, Data Analytics, Machine Learning, LLMs, Generative AI, Agentic AI & Full Stack Development**
+- 💡 Exploring **Data science,Python with Data Analytics, Advance Data Visualization using Python libraries, EDA Analysis with numpy & pandas Machine, Learning, Deep Learning, LLMs, Generative AI, Agentic AI & Full Stack Development**
 - 🎯 Goal: Build impactful AI-driven applications.
 - 📫 Reach me: **aneelkumarmuppana636@gmail.com**
 
