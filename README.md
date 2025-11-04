@@ -41,6 +41,9 @@
 🔹 **[Employee Management System](https://github.com/Anil3656/Bank-Management-System)** 
 Springboot based Employee app with role-based access, CRUD and Authentication.
 
+🔹 **[Internal Chat App](https://github.com/Anil3656/IMCS_CHAT_APP)** 
+Python Django based Chat application integrated with LLm's  
+
 ---
 
 ## 📊 GitHub Stats
