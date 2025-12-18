@@ -30,8 +30,9 @@ Associate Software Developer with more than 1+ hands-on experience in building *
 
 ### Data Science & Machine Learning
 - NumPy, Pandas  
-- EDA, Data Cleaning, Feature Engineering  
-- Scikit-learn, Regression Models
+- EDA, Data Cleaning, Feature Engineering, Model developmenet, Model Evalution & Model Deployment.
+- Scikit-learn, Regression Models, Classification Models, Clustering Models &  ML Algorithms.
+- Familiar with Time series & it's models like ARI, ARIMA, SIRIMA, ARIMAX
 
 ### NLP, Deep Learning & AI & Gen AI
 - Natural language processing, gTTs, TTs, Nltk, TensorFlow
