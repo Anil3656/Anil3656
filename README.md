@@ -3,63 +3,123 @@
 
 ---
 
-##  About Me
-- 🌱 Currently learning **Both Python and Java Full Stack davelopemnt, Data Science, Gen AI, Agentic AI**
-- 💡 Exploring **Data science,Python with Data Analytics, Advance Data Visualization using Python libraries, EDA Analysis with numpy & pandas Machine, Learning, Deep Learning(ANN, CNN, RNN and It's Libraries), LLMs, Generative AI, Agentic AI & Full Stack Development**
-- 🎯 Goal: Build impactful AI-driven applications.
-- 📫 Reach me: **aneelkumarmuppana636@gmail.com**
+# 👋 Hi, I'm Anil Kumar
+
+## 👨‍💻 Professional Summary
+Associate Software Developer with hands-on experience in building **Python/Django-based web applications**, **Machine Learning models**, and **AI-powered systems**. Passionate about combining **backend development**, **Data Science**, **Generative AI**, and **Agentic AI** to design scalable, real-world solutions.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🚀 Currently Working On
+- Developing end-to-end **ML & GenAI applications** with Streamlit  
+- Building **role-based Django systems** with real-time features  
+- Exploring **LLMs, RAG pipelines, and Agentic AI workflows**  
+- Deploying Python applications on **Streamlit Cloud** and **Hugging Face Spaces**
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Python, Java, JavaScript, SQL
+
+### Backend & Web Development
+- Django, Spring Boot  
+- REST APIs, Authentication, Authorization, RBAC  
+- HTML5, CSS3
+
+### Data Science & Machine Learning
+- NumPy, Pandas  
+- EDA, Data Cleaning, Feature Engineering  
+- Scikit-learn, Regression Models
+
+### Deep Learning & AI
+- ANN, CNN, RNN  
+- LLMs, Generative AI, Agentic AI
+
+### Databases
+- MySQL, SQLite
+
+### Tools & Platforms
+- Git, GitHub, Streamlit  
+- VS Code, Jupyter Notebook
 
 ---
 
 ## 📂 Featured Projects
 
 🔹 **[Bank Management System](https://github.com/Anil3656/Bank-Management-System)**  
-💳 Django-based banking app with role-based access, CRUD, transactions, PDF exports, and real-time notifications.  
+💳 Django-based banking application with secure role-based access  
+**Key Features:** Authentication, CRUD operations, Transactions, PDF exports, Real-time notifications  
+**Tech Stack:** Django, MySQL, HTML, CSS, JavaScript  
+
+---
 
 🔹 **[Salary Prediction ML App](https://github.com/Anil3656/Salary-Prediction)**  
-📈 Simple Linear Regression with Streamlit frontend for real-time salary prediction.  
+📈 Machine Learning application for salary prediction  
+**Key Features:** Trained Linear Regression model, interactive Streamlit UI  
+**Tech Stack:** Python, Scikit-learn, Pandas, Streamlit  
 
-🔹 **[EDA & Data Cleaning](https://github.com/Anil3656/Data-Science-Projects)**  
-🧹 Hands-on data preprocessing, feature engineering, and visualization with Python & Pandas.  
+---
 
-🔹 **[Employee Management System](https://github.com/Anil3656/Bank-Management-System)** 
-Springboot based Employee app with role-based access, CRUD and Authentication.
+🔹 **[EDA & Data Science Projects](https://github.com/Anil3656/Data-Science-Projects)**  
+🧹 Data preprocessing, analysis, and visualization projects  
+**Key Concepts:** EDA, feature engineering, data visualization  
+**Tech Stack:** Python, NumPy, Pandas, Matplotlib, Seaborn  
 
-🔹 **[Internal Chat App](https://github.com/Anil3656/IMCS_CHAT_APP)** 
-Python Django based Chat application integrated with LLm's  
+---
+
+🔹 **[Employee Management System](https://github.com/Anil3656/Bank-Management-System)**  
+🏢 Spring Boot-based employee management application  
+**Key Features:** Authentication, role-based access, CRUD operations  
+**Tech Stack:** Java, Spring Boot, MySQL  
+
+---
+
+🔹 **[Internal Chat Application](https://github.com/Anil3656/IMCS_CHAT_APP)**  
+💬 Django-based internal chat application integrated with LLMs  
+**Key Features:** Real-time messaging, AI-assisted responses  
+**Tech Stack:** Django, Python, LLM APIs  
+
+---
+
+## 🏆 Highlights
+- Built multiple **production-level Django applications** with role-based access control  
+- Developed and deployed **ML models with Streamlit UI**  
+- Integrated **LLMs into web applications**  
+- Experience across the full lifecycle: design → development → deployment  
+
+---
+
+## ☁️ Deployment & Platforms
+- Streamlit Cloud  
+- Hugging Face Spaces  
+- GitHub Pages  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Anil3656&show_icons=true&theme=tokyonight" alt="GitHub stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anil3656&theme=tokyonight" alt="GitHub streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anil3656&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anil3656&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 📌 Future Goals
+- Build advanced **RAG-based Generative AI applications**  
+- Design **Agentic AI systems** for intelligent automation  
+- Scale ML applications with **cloud deployments**  
+- Contribute to **open-source AI and Django projects**
+
+---
+
+## 🌐 Connect With Me
 <p align="center">
-<a href="https://linkedin.com/in/aneelkumar1927" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:aneelkumarmuppana636@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://linkedin.com/in/aneelkumar1927" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:aneelkumarmuppana636@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
