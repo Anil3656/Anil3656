@@ -3,10 +3,10 @@
 
 ---
 
-# 👋 Hi, I'm Anil Kumar
+# 👋 Hi, I'm Aneel Kumar M
 
 ## 👨‍💻 Professional Summary
-Associate Software Developer with hands-on experience in building **Python/Django-based web applications**, **Machine Learning models**, and **AI-powered systems**. Passionate about combining **backend development**, **Data Science**, **Generative AI**, and **Agentic AI** to design scalable, real-world solutions.
+Associate Software Developer with more than 1+ hands-on experience in building **Python/Django-based web applications**, **Machine Learning models**, and **AI-powered systems**. Passionate about combining **backend development**, **Data Science**, **Generative AI**, and **Agentic AI** to design scalable, real-world solutions.
 
 ---
 
@@ -25,24 +25,26 @@ Associate Software Developer with hands-on experience in building **Python/Djang
 
 ### Backend & Web Development
 - Django, Spring Boot  
-- REST APIs, Authentication, Authorization, RBAC  
-- HTML5, CSS3
+- REST APIs, Authentication, Authorization
+- HTML5, CSS3, BootStrap, React.js 
 
 ### Data Science & Machine Learning
 - NumPy, Pandas  
 - EDA, Data Cleaning, Feature Engineering  
 - Scikit-learn, Regression Models
 
-### Deep Learning & AI
+### NLP, Deep Learning & AI & Gen AI
+- Natural language processing, gTTs, TTs, Nltk, TensorFlow
 - ANN, CNN, RNN  
-- LLMs, Generative AI, Agentic AI
+- LLMs, Prompt engineering, Generative AI, Agentic AI, MCP  & A2A protocals
 
-### Databases
-- MySQL, SQLite
+### Databases & Cloud/Security
+- MySQL, Postgres, SQLite
+- Azure cloud AI services, AWS Practitioner
 
 ### Tools & Platforms
-- Git, GitHub, Streamlit  
-- VS Code, Jupyter Notebook
+- Git, GitHub, Streamlit, Gradio 
+- VS Code, Jupyter Notebook, spyder, pyCharm, Google Colab, Google Ai stidio, Cursor AI, Anthropic Claude AI
 
 ---
 
