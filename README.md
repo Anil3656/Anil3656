@@ -6,7 +6,7 @@
 # 👋 Hi, I'm Aneel Kumar M
 
 ## 👨‍💻 Professional Summary
-Associate Software Developer with more than 1+ hands-on experience in building **Python/Django-based web applications**, **Machine Learning models**, and **AI-powered systems**. Passionate about combining **backend development**, **Data Science**, **Generative AI**, and **Agentic AI** to design scalable, real-world solutions.
+Associate Software Developer with more than 1+ years of hands-on experience in building **Python/Django-based web applications**, **Machine Learning models**, and **AI-powered systems**. Passionate about combining **backend development**, **Data Science**, **Generative AI**, and **Agentic AI** to design scalable, real-world solutions.
 
 ---
 
