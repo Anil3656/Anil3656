@@ -36,7 +36,7 @@ Associate Software Developer with more than 1+ years of hands-on experience in b
 
 ### NLP, Deep Learning & AI & Gen AI
 - Natural language processing, gTTs, TTs, Nltk, TensorFlow
-- ANN, CNN, RNN  
+- ANN, CNN-Computer Vision(CV), Yolo Ultralytics models, RNN(Text To Speech), 
 - LLMs, Prompt engineering, Generative AI, Agentic AI, MCP  & A2A protocals
 
 ### Databases & Cloud/Security
@@ -44,8 +44,8 @@ Associate Software Developer with more than 1+ years of hands-on experience in b
 - Azure cloud AI services, AWS Practitioner
 
 ### Tools & Platforms
-- Git, GitHub, Streamlit, Gradio 
-- VS Code, Jupyter Notebook, spyder, pyCharm, Google Colab, Google Ai stidio, Cursor AI, Anthropic Claude AI
+- Git, GitHub, Streamlit, Gradio, Flask
+- VS Code, Jupyter Notebook, spyder, pyCharm, Google Colab, Google Ai stidio, Cursor AI, Anthropic Claude AI, Antigravity
 
 ---
 
@@ -85,6 +85,14 @@ Associate Software Developer with more than 1+ years of hands-on experience in b
 **Tech Stack:** Django, Python, LLM APIs  
 
 ---
+---
+
+🔹 **[E-Sign Application](https://github.com/IMCS-Group/imcs_e-sign_backend_python)**  
+💬 Django-based E-Sign application integrated with LLMs  
+**Key Features:** Real-time E-signing, AI-assisted responses  
+**Tech Stack:** Django, Python, LLM APIs  
+
+---
 
 ## 🏆 Highlights
 - Built multiple **production-level Django applications** with role-based access control  
@@ -97,7 +105,7 @@ Associate Software Developer with more than 1+ years of hands-on experience in b
 ## ☁️ Deployment & Platforms
 - Streamlit Cloud  
 - Hugging Face Spaces  
-- GitHub Pages  
+- GitHub Pages
 
 ---
 
@@ -122,7 +130,7 @@ Associate Software Developer with more than 1+ years of hands-on experience in b
   <a href="https://linkedin.com/in/aneelkumar1927" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:aneelkumarmuppana636@gmail.com">
+  <a href="mailto:aneelkumarm97@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
