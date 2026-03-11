@@ -29,7 +29,7 @@ Associate Software Developer with more than 1+ years of strong professional expe
 - HTML5, CSS3, BootStrap, React.js 
 
 ### Data Science & Machine Learning
-- NumPy, Pandas  
+- NumPy, Pandas, Malplotlib, Seaborn, plotlib  
 - EDA, Data Cleaning, Feature Engineering, Model developmenet, Model Evalution & Model Deployment.
 - Scikit-learn, Regression Models, Classification Models, Clustering Models &  ML Algorithms.
 - Familiar with Time series & it's models like ARI, ARIMA, SIRIMA, ARIMAX
