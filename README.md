@@ -106,6 +106,9 @@ Associate Software Developer with more than 1+ years of strong professional expe
 - Streamlit Cloud  
 - Hugging Face Spaces  
 - GitHub Pages
+- Vercel
+- Netlify
+- Docker
 
 ---
 
