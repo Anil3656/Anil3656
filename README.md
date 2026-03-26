@@ -87,10 +87,10 @@ Associate Software Developer with more than 1+ years of strong professional expe
 ---
 ---
 
-🔹 **[E-Sign Application](https://github.com/IMCS-Group/imcs_e-sign_backend_python)**  
-💬 Django-based E-Sign application integrated with LLMs  
+🔹 **[Real Time E-Sign Application](https://github.com/IMCS-Group/imcs_e-sign_backend_python)**  
+💬 Django-based E-Sign application. 
 **Key Features:** Real-time E-signing, AI-assisted responses  
-**Tech Stack:** Django, Python, LLM APIs  
+**Tech Stack:** Django, Python  
 
 ---
 
