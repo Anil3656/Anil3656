@@ -6,12 +6,12 @@
 # 👋 Hi, I'm Aneel Kumar M
 
 ## 👨‍💻 Professional Summary
-Associate Software Developer with more than 1+ years of strong professional experience in building **Python/Django-based/FastAPI web applications**, **Machine Learning models**, and **AI-powered systems**. Passionate about combining **backend development**, **Data Science**, **Generative AI**, **RAG Based Document Bot App**, and **Agentic AI** to design scalable, AI driven real-world solutions.
+Associate Software Developer with more than 1+ years of strong professional experience in building **Python/Django-based/FastAPI web applications**, **Machine Learning models**, and **AI-powered systems**. Passionate about combining **backend development**, **Data Science**, **Generative AI**, **RAG Based Document ChatBot**, and **Agentic AI** to design scalable, AI driven real-world solutions.
 
 ---
 
 ## 🚀 Currently Working On
-- Developing end-to-end **ML & GenAI applications** with Streamlit  
+- Developing end-to-end **ML & GenAI applications** with Streamlit UI 
 - Building **role-based Django systems** with real-time features  
 - Exploring **LLMs, RAG pipelines, and Agentic AI workflows**  
 - Deploying Python applications on **Streamlit Cloud** and **Hugging Face Spaces**
@@ -24,7 +24,7 @@ Associate Software Developer with more than 1+ years of strong professional expe
 - Python, Java, JavaScript, SQL
 
 ### Backend & Web Development
-- Django, Spring Boot  
+- Django, Fast API, Spring Boot  
 - REST APIs, Authentication, Authorization
 - HTML5, CSS3, BootStrap, React.js 
 
