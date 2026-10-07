@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://github.com/Anil3656/Anil3656/blob/main/assets/Banner2.png)
+![Banner](https://github.com/Anil3656/Anil3656/blob/main/assets/GitBanner2.png)
 
 ---
 
